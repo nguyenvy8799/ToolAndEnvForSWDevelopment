@@ -26,6 +26,7 @@ namespace Practice_02
                 factor = 2;
             }
             // TODO: if employee is Expert, set factor = 3
+            // Nguyễn Chí Vỹ
                 else if (employeeType == EmployeeType.Expert)
                 {
                     factor = 3;
